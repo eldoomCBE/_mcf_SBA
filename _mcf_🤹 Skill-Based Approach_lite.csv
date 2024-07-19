@@ -1,0 +1,483 @@
+Parent ID number,ID number,Short name,Description,Description format,Scale values,Scale configuration,Rule type (optional),Rule outcome (optional),Rule config (optional),Cross-referenced competency ID numbers,Exported ID (optional),Is framework,Taxonomy
+,SBA,🤹 Skill-Based Approach,"<div class=""alert alert-warning"" role=""alert"">
+<h4 class=""alert-heading"">⚠️ This competency framework is a demonstrative template</h4>
+<p>This framework demonstrates how to implement and operationalize a competency framework with <abbr class=""initialism"" title=""Competency-Based Education"">CBE</abbr> or <abbr class=""initialism"" title=""Skill-Based Approach"">SBA</abbr> within Moodle's competency frameworks.<br>It follows a simple 7-steps synthesis of the development stages for competency frameworks including:&nbsp;defining <strong>competencies</strong>,&nbsp;<strong>essential components</strong>,&nbsp;<strong>families of situations</strong>,&nbsp;<strong>levels of development</strong>,&nbsp;<strong>critical learnings</strong>,&nbsp;and additional elements in the program like&nbsp;<strong>learning and assessment situations</strong>&nbsp;(LAS) plus necessary&nbsp;<strong>resources&nbsp;</strong>for competency development.</p>
+<hr>
+<p class=""mb-0"">It contains namings, self-explanations and self-instructions to identify and develop properly each component, which should, of course, not to be presented as it into the end-to-end framework.</p>
+</div>
+<hr>
+<p><span style=""background-color: #fbeeb8;"">▶️ Before getting to grips with the approach, it's useful to take a look back at Tardif's (2006) definition of&nbsp;<strong>competence </strong>as:</span></p>
+<blockquote>
+<p dir=""ltr"" style=""text-align: center;"">&laquo; <span style=""font-size: 18pt;""><em>a complex know-how to act based on the effective mobilization and combination of a variety of internal and external resources within a family of situations</em></span> &raquo;<br>&mdash; Tardif (2006)</p>
+<hr></blockquote>
+<p><span style=""background-color: #fbeeb8;"">▶️ The development stages of this approach are as follows:</span></p>
+<p><img title=""Approach to developing a competency framework (CBE)"" src=""https://eldoomcbe.github.io/_mcf_SBA/sba-framework-terminology.jpg"" alt=""Approach to developing a competency framework"" width=""100%""></p>
+<hr>
+<p><span style=""background-color: #fbeeb8;"">▶️ At this&nbsp;<strong>point</strong>, we can already see that a <strong>hierarchy</strong> or kind of <strong>tree structure</strong> is emerging:</span></p>
+<details class=""mce-accordion"">
+<summary><strong><span style=""font-size: 18pt;"">1️⃣✊ Competency</span></strong></summary>
+<p>Define the <strong>competencies</strong>, the complex &laquo; <em>know-how to act</em> &raquo; that students should develop throughout the training program.</p>
+</details>
+<details class=""mce-accordion"">
+<summary style=""padding-left: 40px;""><strong><span style=""font-size: 18pt;"">2️⃣🔩 </span></strong><em><span style=""font-size: 18pt;"">Essential Component</span></em></summary>
+<p>Define the <strong>essential components</strong> for action, which account for the complexity of the competency, inform on its quality, and facilitate its assessment.</p>
+</details>
+<details class=""mce-accordion"">
+<summary style=""padding-left: 40px;""><strong><span style=""font-size: 18pt;"">3️⃣💼 </span></strong><em><span style=""font-size: 18pt;"">Professional Situation</span></em></summary>
+<p>Define <strong>families of situations</strong> (often types of professional contexts) that account for the extent of the <strong>competency</strong>.</p>
+</details>
+<details class=""mce-accordion"">
+<summary><strong><span style=""font-size: 18pt;"">4️⃣⭐ Levels&nbsp;</span></strong></summary>
+<p>Define the <strong>levels of competency development </strong>aimed for at the end of given learning periods (e.g., a maximum of three levels for a Bachelor's Degree).</p>
+</details>
+<details class=""mce-accordion"">
+<summary style=""padding-left: 40px;""><strong><span style=""font-size: 18pt;"">5️⃣🔨 Critical Learning</span></strong></summary>
+<p>Define the <strong>critical learnings</strong> to master in order to reach a given <strong>level of competency development</strong>.</p>
+</details>
+<details class=""mce-accordion"">
+<summary><strong><span style=""font-size: 14pt;"">6️⃣🦿 </span></strong><em><span style=""font-size: 14pt;"">Learning and Assessment Situations (LAS)</span></em></summary>
+<p>Define <strong>Learning and Assessment Situations</strong> (<strong>LAS</strong>) in which to immerse students to allow them to develop and assess the targeted <strong>competencies</strong>.</p>
+</details>
+<details class=""mce-accordion"">
+<summary><strong><span style=""font-size: 14pt;"">7️⃣🐥 </span></strong><span style=""font-size: 14pt;""><em>Resource</em></span></summary>
+<p>Defining some of the <strong>resources</strong>: combination of <strong>knowledge</strong>, <strong>skills</strong>, <strong>professional attitudes</strong>, <strong>norms</strong>, <strong>rules</strong>, <strong>schemes</strong>, etc.</p>
+</details>
+<p>&nbsp;</p>
+<hr>
+<p><span style=""background-color: #fbeeb8;"">▶️ And this is a good&nbsp;<strong>point</strong>, because Moodle is exactly the kind of system which can fluently manage those kind of <strong>tree structure operationalizations</strong>:</span></p>
+<p><img title=""Formalized in the competency framework"" src=""https://eldoomcbe.github.io/_mcf_SBA/sba-framework-operationalization.jpg"" alt=""Formalized in the competency framework"" width=""100%""></p>
+<hr>
+<p dir=""ltr""><span style=""background-color: #fbeeb8;"">▶️ Now, here is how you can read this:</span></p>
+<div class=""alert alert-info"">
+<h1>Building the framework</h1>
+<p>&nbsp;</p>
+<ul>
+<li dir=""ltr"" aria-level=""1"">
+<h4 dir=""ltr"" role=""presentation""><strong>1️⃣ Define <kbd>✊&nbsp;Competencies</kbd></strong></h4>
+<ul>
+<li dir=""ltr"" aria-level=""2"">
+<p dir=""ltr"" role=""presentation"">Use <strong>action verbs</strong>, typically between 4 and 6 for a 1 to 3 years curriculum<br><br></p>
+</li>
+</ul>
+</li>
+<li dir=""ltr"" aria-level=""1"">
+<h4 dir=""ltr"" role=""presentation""><strong>2️⃣ Define</strong> <kbd>🔩&nbsp;Essential Components</kbd> for each <kbd>✊&nbsp;Competency</kbd></h4>
+<ul>
+<li dir=""ltr"" aria-level=""2"">
+<p dir=""ltr"" role=""presentation"">Use <strong>gerunds</strong> (e.g., ""by maintaining,"" ""by ensuring""), typically between 3 and 6 per Competency</p>
+</li>
+</ul>
+</li>
+<li dir=""ltr"" aria-level=""1"">
+<h4 dir=""ltr"" role=""presentation""><strong>3️⃣ Define</strong> <kbd>💼&nbsp;Families of Situations</kbd> for each <kbd>✊&nbsp;Competency</kbd></h4>
+<ul>
+<li dir=""ltr"" aria-level=""2"">
+<p dir=""ltr"" role=""presentation""><strong>Contextual Application</strong>: Competencies are developed in real-life contexts, typically between 2 and 4 per Competency</p>
+</li>
+</ul>
+</li>
+</ul>
+<p dir=""ltr""><strong>&nbsp;</strong></p>
+<ul>
+<li dir=""ltr"" aria-level=""1"">
+<h4 dir=""ltr"" role=""presentation""><strong>4️⃣ Define</strong> <strong>Development <kbd>⭐&nbsp;Levels</kbd></strong> for each <kbd>✊&nbsp;Competency</kbd></h4>
+</li>
+<ul>
+<li dir=""ltr"" aria-level=""2"">
+<p dir=""ltr"" role=""presentation""><strong>Progression Indicators</strong>: Outline roles or functions that increase in complexity over time, typically between 3 and 4 per Competency</p>
+</li>
+</ul>
+</ul>
+<p dir=""ltr""><strong>&nbsp;</strong></p>
+<ul>
+<li dir=""ltr"" aria-level=""1"">
+<h4 dir=""ltr"" role=""presentation""><strong>5️⃣ Identify</strong> <kbd>🔨&nbsp;Critical Learnings</kbd> for each <kbd>✊&nbsp;Competency</kbd> and <kbd>⭐&nbsp;Levels</kbd></h4>
+</li>
+<ul>
+<li dir=""ltr"" aria-level=""2"">
+<p dir=""ltr"" role=""presentation"">Transformational Learning, expected changes: Key moments that change the student's understanding and approach.</p>
+<hr></li>
+</ul>
+</ul>
+<h5 dir=""ltr"">Supporting Elements (transversal to multiple targeted components of a <kbd>✊ Competency</kbd>)</h5>
+<ul>
+<li dir=""ltr"" aria-level=""1"">
+<p dir=""ltr"" role=""presentation""><strong>6️⃣</strong> <kbd>🦿&nbsp;Learning and Assessment Situation (LAS)</kbd>: Authentic tasks designed to develop and assess <kbd>✊&nbsp;Competencies</kbd>.</p>
+</li>
+<li dir=""ltr"" aria-level=""1"">
+<p dir=""ltr"" role=""presentation""><strong>7️⃣</strong> <kbd>🐥&nbsp;Resources</kbd>: Essential knowledge, skills, and attitudes required for <kbd>✊&nbsp;Competencies</kbd> development.</p>
+</li>
+</ul>
+</div>
+<hr>
+<p><span style=""background-color: #fbeeb8;"">▶️ Another way of seing this more tabularly:</span></p>
+<table dir=""ltr"" style=""border-collapse: collapse; border-spacing: 0px; background-color: #000000; width: 100%; height: 1185.05px; border: 3px solid #ecf0f1;"" border=""1"" cellspacing=""0"" cellpadding=""0"" data-sheets-root=""1""><colgroup><col style=""width: 9.18655%;"" width=""42""><col style=""width: 6.40836%;"" width=""100""><col style=""width: 9.63106%;"" width=""100""><col style=""width: 11.298%;"" width=""100""><col style=""width: 3.11157%;"" width=""42""><col style=""width: 9.29767%;"" width=""100""><col style=""width: 3.482%;"" width=""42""><col style=""width: 9.11246%;"" width=""100""><col style=""width: 5.37117%;"" width=""100""><col style=""width: 7.89006%;"" width=""100""><col style=""width: 7.89006%;"" width=""100""><col style=""width: 7.89006%;"" width=""100""><col style=""width: 7.89006%;"" width=""100""><col style=""width: 1.4817%;"" width=""26""></colgroup>
+<tbody>
+<tr style=""height: 25.6px;"">
+<td style=""border-color: #ecf0f1; background-color: #e03e2d; border-width: 3px;"" colspan=""14"">&nbsp;</td>
+</tr>
+<tr style=""height: 59.975px;"">
+<td style=""border-color: #ecf0f1; text-align: center; background-color: #e03e2d; border-width: 3px;"" rowspan=""3"">
+<h1><span style=""color: #ecf0f1;"">C1</span></h1>
+</td>
+<td style=""border-color: #ecf0f1; border-width: 3px;"" colspan=""12"" data-sheets-value=""{"">
+<h2 style=""text-align: center;""><span style=""color: #ecf0f1;"">✊ Competency</span></h2>
+</td>
+<td style=""border-color: #ecf0f1; border-width: 3px;"">&nbsp;</td>
+</tr>
+<tr style=""height: 59.975px;"">
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""12""><span style=""color: #f8cac6;""><em>... a complex know-how to act ...</em></span><em><span style=""color: #ecf0f1;""><br></span></em></td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;""><em><span style=""color: #ecf0f1;"">&nbsp;</span></em></td>
+</tr>
+<tr style=""height: 59.975px;"">
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""12"" data-sheets-value=""{"">
+<h1><span style=""color: #ecf0f1;"">...</span></h1>
+</td>
+<td style=""border-color: #ecf0f1; border-width: 3px;"">&nbsp;</td>
+</tr>
+<tr style=""height: 59.975px;"">
+<td style=""border-color: #ecf0f1; background-color: #e67e23; border-width: 3px;"" colspan=""14"">&nbsp;</td>
+</tr>
+<tr style=""height: 154.15px;"">
+<td style=""border-color: #ecf0f1; border-width: 3px;"" colspan=""3"">
+<div style=""text-align: center;""><span style=""color: #fbeeb8;""><em>... which includes qualities, observable criteria of requirements ...</em></span></div>
+</td>
+<td style=""border-color: #ecf0f1; border-width: 3px;"" data-sheets-value=""{"">
+<div style=""text-align: center;""><span style=""color: #ecf0f1;"">🔩 Essential Component</span></div>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; background-color: #e67e23; border-width: 3px;"" data-sheets-value=""{"">
+<h2><strong><span style=""color: #ecf0f1;"">EC1</span></strong></h2>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""8"" data-sheets-value=""{""><span style=""color: #ecf0f1;"">by...</span></td>
+<td style=""border-color: #ecf0f1; border-width: 3px;"">&nbsp;</td>
+</tr>
+<tr style=""height: 25.6px;"">
+<td style=""border-color: #ecf0f1; border-width: 3px;"" colspan=""14"">&nbsp;</td>
+</tr>
+<tr style=""height: 59.975px;"">
+<td style=""border-color: #ecf0f1; text-align: center; background-color: #843fa1; border-width: 3px;"" colspan=""14""><span style=""color: #ecf0f1;"">🚶 its development</span></td>
+</tr>
+<tr style=""height: 89.025px;"">
+<td style=""border-color: #ecf0f1; text-align: center; background-color: #2dc26b; border-width: 3px;"" colspan=""4""><em><span style=""color: #ecf0f1;"">... by adopting increasingly complex responsibilities ...</span></em><span style=""color: #ecf0f1;""><br></span></td>
+<td style=""border-color: #ecf0f1; text-align: center; background-color: #ff2eed; border-width: 3px;"" colspan=""9""><em><span style=""color: #ecf0f1;"">... which require transformational learning ...</span></em></td>
+<td style=""border-color: #ecf0f1; border-width: 3px;"" rowspan=""5"">&nbsp;</td>
+</tr>
+<tr style=""height: 59.975px;"">
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" data-sheets-value=""{""><strong><span style=""color: #ecf0f1;"">⭐</span></strong></td>
+<td style=""border-color: #ecf0f1; background-color: #2dc26b; border-width: 3px;"" data-sheets-value=""{"">
+<h3 style=""text-align: center;""><strong><span style=""color: #ecf0f1;"">L1</span></strong></h3>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""2"" data-sheets-value=""{""><em><span style=""color: #ecf0f1;"">Novice</span></em></td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""2"" data-sheets-value=""{"">
+<div><span style=""color: #ecf0f1;"">🔨 Critical Learning</span></div>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; background-color: #ff2eed; border-width: 3px;"" data-sheets-value=""{"">
+<h3><strong><span style=""color: #ecf0f1;"">CL1</span></strong></h3>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""6"" data-sheets-value=""{""><span style=""color: #ecf0f1;"">...</span></td>
+</tr>
+<tr style=""height: 59.975px;"">
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" data-sheets-value=""{""><span style=""color: #ecf0f1;"">⭐⭐</span></td>
+<td style=""border-color: #ecf0f1; background-color: #2dc26b; border-width: 3px;"" data-sheets-value=""{"">
+<h3 style=""text-align: center;""><span style=""color: #ecf0f1;""><strong>L2</strong></span></h3>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""2"" data-sheets-value=""{""><em><span style=""color: #ecf0f1;"">Intermediate</span></em></td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""2"" data-sheets-value=""{"">
+<div><span style=""color: #ecf0f1;"">🔨 Critical Learning</span></div>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; background-color: #ff2eed; border-width: 3px;"" data-sheets-value=""{"">
+<h3><strong><span style=""color: #ecf0f1;"">CL1</span></strong></h3>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""6"" data-sheets-value=""{""><span style=""color: #ecf0f1;"">...</span></td>
+</tr>
+<tr style=""height: 59.975px;"">
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" data-sheets-value=""{""><span style=""color: #ecf0f1;"">⭐⭐⭐</span></td>
+<td style=""border-color: #ecf0f1; background-color: #2dc26b; border-width: 3px;"" data-sheets-value=""{"">
+<h3 style=""text-align: center;""><span style=""color: #ecf0f1;""><strong>L3</strong></span></h3>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""2"" data-sheets-value=""{""><em><span style=""color: #ecf0f1;"">Competent</span></em></td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""2"" data-sheets-value=""{"">
+<div><span style=""color: #ecf0f1;"">🔨 Critical Learning</span></div>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; background-color: #ff2eed; border-width: 3px;"" data-sheets-value=""{"">
+<h3><strong><span style=""color: #ecf0f1;"">CL1</span></strong></h3>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""6"" data-sheets-value=""{""><span style=""color: #ecf0f1;"">...</span></td>
+</tr>
+<tr style=""height: 59.975px;"">
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" data-sheets-value=""{""><span style=""color: #ecf0f1;"">⭐⭐⭐⭐</span></td>
+<td style=""border-color: #ecf0f1; background-color: #2dc26b; border-width: 3px;"" data-sheets-value=""{"">
+<h3 style=""text-align: center;""><span style=""color: #ecf0f1;""><strong>L4</strong></span></h3>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""2"" data-sheets-value=""{""><em><span style=""color: #ecf0f1;"">Advanced</span></em></td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""2"" data-sheets-value=""{"">
+<div><span style=""color: #ecf0f1;"">🔨 Critical Learning</span></div>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; background-color: #ff2eed; border-width: 3px;"" data-sheets-value=""{"">
+<h3><strong><span style=""color: #ecf0f1;"">CL1</span></strong></h3>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""6"" data-sheets-value=""{""><span style=""color: #ecf0f1;"">...</span></td>
+</tr>
+<tr style=""height: 25.6px;"">
+<td style=""border-color: #ecf0f1; background-color: #46bdc6; border-width: 3px;"" colspan=""14"">&nbsp;</td>
+</tr>
+<tr style=""height: 154.15px;"">
+<td style=""border-color: #ecf0f1; border-width: 3px;"">&nbsp;</td>
+<td style=""border-color: #ecf0f1; border-width: 3px;"" colspan=""2"" data-sheets-value=""{"">
+<div style=""text-align: center;""><span style=""color: #bfedd2;""><em>... in contexts ...</em></span></div>
+</td>
+<td style=""border-color: #ecf0f1; border-width: 3px;"" data-sheets-value=""{"">
+<div style=""text-align: center;""><span style=""color: #ecf0f1;"">💼 Professional Situation</span></div>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; background-color: #46bdc6; border-width: 3px;"" data-sheets-value=""{"">
+<h3><strong><span style=""color: #ecf0f1;"">PS1</span></strong></h3>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""8"" data-sheets-value=""{""><span style=""color: #ecf0f1;"">...</span></td>
+<td style=""border-color: #ecf0f1; border-width: 3px;"">&nbsp;</td>
+</tr>
+<tr style=""height: 25.6px;"">
+<td style=""border-color: #ecf0f1; border-width: 3px; background-color: #fbbc04;"" colspan=""6"">&nbsp;</td>
+<td style=""border-color: #ecf0f1; border-width: 3px; background-color: #4285f4;"" colspan=""8"">&nbsp;</td>
+</tr>
+<tr style=""height: 59.975px;"">
+<td style=""border-color: #ecf0f1; border-width: 3px;"">&nbsp;</td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""5"" data-sheets-value=""{""><span style=""color: #fbeeb8;""><em>... provoked by situational applications ...</em></span></td>
+<td style=""border-color: #ecf0f1; border-width: 3px;"">&nbsp;</td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""6"" data-sheets-value=""{""><span style=""color: #c2e0f4;""><em>... and which call for the mobilization of numerous knowledge, skills, attitudes ...</em></span></td>
+<td style=""border-color: #ecf0f1; border-width: 3px;"" rowspan=""2"">&nbsp;</td>
+</tr>
+<tr style=""height: 59.975px;"">
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" data-sheets-value=""{"">
+<h4><em><strong><span style=""color: #ecf0f1;"">LAS1</span></strong></em></h4>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; background-color: #fbbc04; border-width: 3px;"" data-sheets-value=""{""><em><strong><span style=""color: #ecf0f1;"">🦿 LAS</span></strong></em></td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""4"" data-sheets-value=""{""><span style=""color: #ecf0f1;"">...</span></td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" data-sheets-value=""{"">
+<h4><em><strong><span style=""color: #ecf0f1;"">R1</span></strong></em></h4>
+</td>
+<td style=""border-color: #ecf0f1; text-align: center; background-color: #4285f4; border-width: 3px;"" data-sheets-value=""{""><em><strong><span style=""color: #ecf0f1;"">🐥 Resource</span></strong></em></td>
+<td style=""border-color: #ecf0f1; text-align: center; border-width: 3px;"" colspan=""5"" data-sheets-value=""{""><span style=""color: #ecf0f1;"">...</span></td>
+</tr>
+<tr style=""height: 25.6px;"">
+<td style=""border-color: #ecf0f1; border-width: 3px;"" colspan=""14"">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p dir=""ltr"">&nbsp;</p>
+<p dir=""ltr""><span style=""background-color: #fbeeb8;"">▶️ The approach and operationalization proposed here is mainly based on the work of redesigning the <strong><abbr class=""initialism"" title=""Diplomes Universitaires de Technologie"">DUT</abbr></strong> into <strong><abbr class=""initialism"" title=""Bachelor Universitaires de Technologie"">BUT</abbr></strong> during the period <strong>2019</strong>-<strong>2021</strong> on the basis of the following main references:</span></p>
+<ul style=""list-style-type: square;"">
+<li dir=""ltr"">
+<pre>Tardif, J. (2006). L&rsquo;&eacute;valuation des comp&eacute;tences. Documenter le parcours de d&eacute;veloppement. Montr&eacute;al : Cheneli&egrave;re Education.</pre>
+</li>
+<li dir=""ltr"">
+<pre>Georges, F. et Poumay, M. (2020). R&eacute;diger le r&eacute;f&eacute;rentiel de comp&eacute;tences du Bachelor Universitaire de Technologie. ADIUT.</pre>
+</li>
+<li dir=""ltr"">
+<pre>Georges, F. et Poumay, M. (2020). GUIDE de soutien &agrave; la cr&eacute;ation de situation d'apprentissage et d'&eacute;valuation. ADIUT.</pre>
+</li>
+</ul>",,"Not yet competent,Competent","[{""scaleid"":""2""},{""id"":1,""scaledefault"":1,""proficient"":0},{""id"":2,""scaledefault"":0,""proficient"":1}]",,,,,,1,"competency,level,practice,indicator"
+,SBA-C1,✊ The Competency: a complex « know-how to act »,"<div class=""container"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<h1>✊ The competency</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">&nbsp;<strong>Description&nbsp;</strong></li>
+</ol>
+<blockquote>
+<h5 style=""text-align: center;"">&nbsp;<br>☝️ Define the competencies, the complex &laquo;&nbsp;<em>know-how to act</em> &raquo; that students should develop throughout the training program.</h5>
+<hr></blockquote>
+<p><strong>✍️ Introduce with an action verb and in less than 20 words.</strong></p>
+<ol>
+<li>✅ <em>Ask yourself what are the complex activities that characterize the professional/graduate you wish to train.</em></li>
+<li>✅ <em>Are they truly complex? Do they allow for varied combinations of resources to adapt to different situations?</em></li>
+<li>✅ <em>Are they sufficient in themselves, or is their implementation in service of another purpose? Are they implemented ""for"" something else? If so, they are probably not competencies in the sense of Tardif (2006). However, the purpose they serve is likely one.</em></li>
+<li>✅ <em>Do you recognize the professionals you wish to train in them? If not, complete or specify these know-how to act.</em></li>
+</ol>
+<hr>
+<p>If you are planning to create severals competencies right here, start using a <strong>logical naming convention</strong> in order to develop a whole structured competency framework. I will be <strong>very useful later</strong>, for ordering or filtering list inside docs or tables, for integrating through learning management system (LMS like Moodle) because they recquire unique IDs for each elements that defines a competency, for quick Searching and or Replacing, for conventional mutual sharing, ...</p>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Essential components</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">&nbsp;<strong>by</strong>...&nbsp;</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">&nbsp;<strong>by</strong>...&nbsp;</li>
+</ol>
+<h5 style=""text-align: center;"">&nbsp;<br>Define the essential components for action, which account for the complexity of the competency, inform on its quality, and facilitate its assessment.</h5>
+<hr>
+<p><strong>✍️ Introduce with ""by..."", use of gerunds (complementing the action), between 3 and 6 per competency.</strong></p>
+<ol>
+<li>✅ <em>Ask yourself how one recognizes a competent person. How do we recognize the proper implementation of a competency?</em></li>
+<li>✅ <em>Once the components are identified, characterize them: do they inform about the result (which must be socially acceptable), about the approach, about adherence to norms, about the nature of exchanges with other protagonists? Do these elements have consensus among teachers and professionals? If one of these elements is missing, do you not deem it appropriate to add it?</em></li>
+<li>✅ <em>Are these components distinctly different from the know-how to act? Isn't this a repetition of the competency or other components? Are you able to discriminate them?</em></li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Professional situations</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;...</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;...</li>
+</ol>
+<blockquote>
+<h5 style=""text-align: center;"">&nbsp;<br>☝️ Define families of situations (often types of professional contexts) that account for the extent of the competency.</h5>
+<hr></blockquote>
+<p><strong>✍️ Use of nouns, between 2 and 4 Professional Situations per Competency.</strong></p>
+<ol>
+<li>✅ In which contexts or situations will the graduate be required to implement the competency?</li>
+<li>✅ Do several of these situations share many common characteristics? Or do they require the implementation of very similar learnings? Situations that share common characteristics likely constitute a relevant ""family of situations.""</li>
+<li>✅ Among the selected families of situations, which are likely to generate a sufficient number of relevant situations in terms of the targeted learnings (which enforce interdisciplinarity, which require consideration of all components)?</li>
+</ol>
+<hr>
+<p>Using a <strong>logical naming convention</strong>&nbsp;would let you continue the structured development using unique IDs for for each <strong>Competency</strong> (-<strong>C</strong>x). and each subconsequent <strong>Professional Situations</strong> (-<strong>PS</strong>x)</p>
+</div>
+<div class=""alert alert-success"">
+<h1>📚 Resources</h1>
+<ul class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;...&nbsp;</li>
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;...&nbsp;</li>
+</ul>
+<blockquote>
+<h5 style=""text-align: center;""><br>☝️ Define some of the resources (knowledge, know-how, professional attitudes) that will be useful for developing competence.</h5>
+<hr>
+<p>Those would eventually be some of the materials that could be delivered through the course with <a title=""Activities - MoodleDocs"" href=""https://docs.moodle.org/404/en/Activities"" target=""_blank"" rel=""noopener"">activities</a> and <a title=""Resources - MoodleDocs"" href=""https://docs.moodle.org/404/en/Resources"" target=""_blank"" rel=""noopener"">resources</a> inside your Moodle's course.<br><strong><br>Internal and external resources</strong>:<br>For Tardif (2019, p. 51):<br>&ldquo;<em>A resource is said to be internal insofar as it refers to what a person has already mastered, both in terms of cognition and in terms of attitudes and conduct, whereas an external resource relates to everything the person consults, examines and analyzes in his or her environment.</em>&rdquo;&nbsp;</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>",,,,,,,,_mcf_SBA-C1,,"
+"
+SBA-C1,SBA-C1-L1,⭐ NOVICE Level 1️⃣,"<div class=""container"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<h1>⭐ NOVICE</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">⭐ Apply the framework set to exercise the targeted competencies, but is unable to intentionally and repeatedly make relevant choices in the encountered professional situations.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"">⭐ Understand the main elements, but need support or advice to construct teaching or adjust behavior autonomously and responsibly.</li>
+</ol>
+<h5 style=""text-align: center;"">&nbsp;<br>☝️ Define the levels of competency development aimed for at the end of given learning periods.</h5>
+<hr>
+<p><strong>✍️ Use of short expression, generally 4 levels following the NICA model (Novice, Intermediate, Competent, Advanced) of the targeted competency.</strong></p>
+<ol>
+<li>✅ Reflect on the situations of competency implementation that the student might face at the end of a given period (for example, at the end of each year).</li>
+<li>✅ The complexity of these situations can be characterized by several variables such as: the number and type of parameters/protagonists to consider, an increasingly comprehensive or even systemic perspective of the contexts, the difficulty of reconciling the components, etc.</li>
+<li>✅ Define the role/function/posture/responsibility expected of the student for each of the selected contexts, in other words, for each level of competency development.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>",,,,,,,,,,"
+"
+SBA-C1,SBA-C1-L2,⭐⭐ INTERMEDIATE Level 2️⃣,"<div class=""container"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<h1>⭐⭐ INTERMEDIATE</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">⭐⭐ Has sufficient mastery of the basic skills required to act autonomously, anticipate and make appropriate professional choices.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"">⭐⭐ Identify the relevance of own work in most situations, as well as professional ethics and ability to self-evaluate in order to improve practice continuously.</li>
+</ol>
+<h5 style=""text-align: center;"">&nbsp;<br>☝️ Define the levels of competency development aimed for at the end of given learning periods.</h5>
+<hr>
+<p><strong>✍️ Use of short expression, generally 4 levels following the NICA model (Novice, Intermediate, Competent, Advanced) of the targeted competency.</strong></p>
+<ol>
+<li>✅ Reflect on the situations of competency implementation that the student might face at the end of a given period (for example, at the end of each year).</li>
+<li>✅ The complexity of these situations can be characterized by several variables such as: the number and type of parameters/protagonists to consider, an increasingly comprehensive or even systemic perspective of the contexts, the difficulty of reconciling the components, etc.</li>
+<li>✅ Define the role/function/posture/responsibility expected of the student for each of the selected contexts, in other words, for each level of competency development.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>",,,,,,,,,,"
+"
+SBA-C1,SBA-C1-L3,⭐⭐⭐ COMPETENT Level 3️⃣,"<div class=""container"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<h1>⭐⭐⭐ COMPETENT</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">⭐⭐⭐ Exercise the targeted skills effectively over time.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"">⭐⭐⭐ Make relevant choices and implement them effectively, adapted to the professional situation encountered, including unpredictable situations.</li>
+</ol>
+<h5 style=""text-align: center;"">&nbsp;<br>☝️ Define the levels of competency development aimed for at the end of given learning periods.</h5>
+<hr>
+<p><strong>✍️ Use of short expression, generally 4 levels following the NICA model (Novice, Intermediate, Competent, Advanced) of the targeted competency.</strong></p>
+<ol>
+<li>✅ Reflect on the situations of competency implementation that the student might face at the end of a given period (for example, at the end of each year).</li>
+<li>✅ The complexity of these situations can be characterized by several variables such as: the number and type of parameters/protagonists to consider, an increasingly comprehensive or even systemic perspective of the contexts, the difficulty of reconciling the components, etc.</li>
+<li>✅ Define the role/function/posture/responsibility expected of the student for each of the selected contexts, in other words, for each level of competency development.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>",,,,,,,,,,"
+"
+SBA-C1,SBA-C1-L4,⭐⭐⭐⭐ ADVANCED Level 4️⃣,"<div class=""container"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<h1>⭐⭐⭐⭐ ADVANCED</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">⭐⭐⭐⭐ Demonstrate the ability to mobilize the targeted skills in an interrelated way to apprehend and manage a complex professional context.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"">⭐⭐⭐⭐Demonstrate pedagogical ingenuity to help the framework evolve while respecting ethical principles.&nbsp;</li>
+</ol>
+<h5 style=""text-align: center;"">&nbsp;<br>☝️ Define the levels of competency development aimed for at the end of given learning periods.</h5>
+<hr>
+<p><strong>✍️ Use of short expression, generally 4 levels following the NICA model (Novice, Intermediate, Competent, Advanced) of the targeted competency.</strong></p>
+<ol>
+<li>✅ Reflect on the situations of competency implementation that the student might face at the end of a given period (for example, at the end of each year).</li>
+<li>✅ The complexity of these situations can be characterized by several variables such as: the number and type of parameters/protagonists to consider, an increasingly comprehensive or even systemic perspective of the contexts, the difficulty of reconciling the components, etc.</li>
+<li>✅ Define the role/function/posture/responsibility expected of the student for each of the selected contexts, in other words, for each level of competency development.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>",,,,,,,,,,"
+"
+SBA-C1-L1,SBA-C1-L1-P1,🔨 Critical Learning 1️⃣ of Level 1️⃣⭐,"<div class=""container"">
+<div class=""card border-warning text-center"">
+<div class=""card-body shadow-lg"">
+<h5 style=""text-align: center;"">Define the critical learnings to master in order to reach a given level of competency development.</h5>
+<hr>
+<p style=""text-align: left;""><strong>✍️ For each level of each competency, introduced by verbs with concise formulations.</strong></p>
+<ol style=""text-align: left;"">
+<li>
+<p>✅ Reflect on what the student must master to assume their role/function/posture/responsibility in terms of experimentation at this given level of competency development.</p>
+</li>
+<li>
+<p>✅ For each selected learning, identify the expected changes. These constitute the Critical Learnings (CL). For example:</p>
+</li>
+</ol>
+<ul>
+<li style=""text-align: left;"">In the CL (expected change) ""Researching for Progress"", it is expected that the student moves from using literature to simply justify their practices to using literature to really question their practices;</li>
+<li style=""text-align: left;"">In the CL (expected change) ""Distinguishing Ends and Means"", it is expected that the student moves from action for the sake of action to action in service of a goal.</li>
+</ul>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+SBA-C1-L1-P1,SBA-C1-L1-P1-I1,🚥 Indicator 1️⃣,"<div class=""container"">
+<div class=""card border-danger text-center"">
+<div class=""card-body shadow-lg"">
+<h5 style=""text-align: center;"">Define indicator for competency development and assessment</h5>
+<hr>
+<p style=""text-align: left;""><strong>✍️ Writing the indicator directly into the competency framework can be facultive, depending on how you plan to evaluate and assess through activitivies, tests, productions, assessment grids, etc.</strong></p>
+<p style=""text-align: left;"">Whether the indicator are present or not inside the Competency Framework, they would mostly help to operationalize criteria and assessment through&nbsp;<kbd>🔩&nbsp;Essential Components</kbd>, Development <kbd>⭐&nbsp;Levels</kbd> and <kbd>🔨&nbsp;Critical Learnings</kbd> for each <kbd>✊&nbsp;Competency</kbd>, then articulate them within specific <kbd>🦿&nbsp;Learning and Assessment Situation (LAS)</kbd>, delivrables, etc.</p>
+<ol style=""text-align: left;"">
+<li>
+<p>✅ To ensure that the components can be evaluated, identify the significant indicators of each component's achievement.</p>
+</li>
+<li>
+<p>✅ To determine these indicators, think of a particular situation in which the students will be asked to apply their skills, and identify the elements to which you will pay attention to ensure that they have developed their skills in line with the components.</p>
+</li>
+</ol>
+<p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"

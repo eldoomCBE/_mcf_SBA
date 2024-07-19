@@ -11,7 +11,7 @@ Parent ID number,ID number,Short name,Description,Description format,Scale value
 <p dir=""ltr"" style=""text-align: center;"">&laquo; <span style=""font-size: 18pt;""><em>a complex know-how to act based on the effective mobilization and combination of a variety of internal and external resources within a family of situations</em></span> &raquo;<br>&mdash; Tardif (2006)</p>
 <hr></blockquote>
 <p><span style=""background-color: #fbeeb8;"">▶️ The development stages of this approach are as follows:</span></p>
-<p><img title=""Approach to developing a competency framework (CBE)"" src=""https://moodle.7i3n.org/pluginfile.php/1/core_h5p/content/186/images/file-664b92b339090.jpg"" alt=""Approach to developing a competency framework"" width=""100%""></p>
+<p><img title=""Approach to developing a competency framework (CBE)"" src=""https://eldoomcbe.github.io/_mcf_SBA/sba-framework-terminology.jpg"" alt=""Approach to developing a competency framework"" width=""100%""></p>
 <hr>
 <p><span style=""background-color: #fbeeb8;"">▶️ At this&nbsp;<strong>point</strong>, we can already see that a <strong>hierarchy</strong> or kind of <strong>tree structure</strong> is emerging:</span></p>
 <details class=""mce-accordion"">
@@ -45,7 +45,7 @@ Parent ID number,ID number,Short name,Description,Description format,Scale value
 <p>&nbsp;</p>
 <hr>
 <p><span style=""background-color: #fbeeb8;"">▶️ And this is a good&nbsp;<strong>point</strong>, because Moodle is exactly the kind of system which can fluently manage those kind of <strong>tree structure operationalizations</strong>:</span></p>
-<p><img title=""Formalized in the competency framework"" src=""https://moodle.7i3n.org/pluginfile.php/1/core_h5p/content/186/images/file-664b49cce3d4e.jpg"" alt=""Formalized in the competency framework"" width=""100%""></p>
+<p><img title=""Formalized in the competency framework"" src=""https://eldoomcbe.github.io/_mcf_SBA/sba-framework-operationalization.jpg"" alt=""Formalized in the competency framework"" width=""100%""></p>
 <hr>
 <p dir=""ltr""><span style=""background-color: #fbeeb8;"">▶️ Now, here is how you can read this:</span></p>
 <div class=""alert alert-info"">
@@ -345,7 +345,8 @@ Parent ID number,ID number,Short name,Description,Description format,Scale value
 </div>
 </div>
 </div>
-<p>&nbsp;</p>",,,,,,,,_mcf_SBA-C1,,""
+<p>&nbsp;</p>",,,,,,,,_mcf_SBA-C1,,"
+"
 SBA-C1,SBA-C1-L1,⭐ NOVICE Level 1️⃣,"<div class=""container"">
 <div class=""row"">
 <div class=""col-md-12"">
@@ -367,7 +368,8 @@ SBA-C1,SBA-C1-L1,⭐ NOVICE Level 1️⃣,"<div class=""container"">
 </div>
 </div>
 </div>
-<p>&nbsp;</p>",,,,,,,,,,""
+<p>&nbsp;</p>",,,,,,,,,,"
+"
 SBA-C1,SBA-C1-L2,⭐⭐ INTERMEDIATE Level 2️⃣,"<div class=""container"">
 <div class=""row"">
 <div class=""col-md-12"">
@@ -389,7 +391,8 @@ SBA-C1,SBA-C1-L2,⭐⭐ INTERMEDIATE Level 2️⃣,"<div class=""container"">
 </div>
 </div>
 </div>
-<p>&nbsp;</p>",,,,,,,,,,""
+<p>&nbsp;</p>",,,,,,,,,,"
+"
 SBA-C1,SBA-C1-L3,⭐⭐⭐ COMPETENT Level 3️⃣,"<div class=""container"">
 <div class=""row"">
 <div class=""col-md-12"">
@@ -411,7 +414,8 @@ SBA-C1,SBA-C1-L3,⭐⭐⭐ COMPETENT Level 3️⃣,"<div class=""container"">
 </div>
 </div>
 </div>
-<p>&nbsp;</p>",,,,,,,,,,""
+<p>&nbsp;</p>",,,,,,,,,,"
+"
 SBA-C1,SBA-C1-L4,⭐⭐⭐⭐ ADVANCED Level 4️⃣,"<div class=""container"">
 <div class=""row"">
 <div class=""col-md-12"">
@@ -433,7 +437,8 @@ SBA-C1,SBA-C1-L4,⭐⭐⭐⭐ ADVANCED Level 4️⃣,"<div class=""container"">
 </div>
 </div>
 </div>
-<p>&nbsp;</p>",,,,,,,,,,""
+<p>&nbsp;</p>",,,,,,,,,,"
+"
 SBA-C1-L1,SBA-C1-L1-P1,🔨 Critical Learning 1️⃣ of Level 1️⃣⭐,"<div class=""container"">
 <div class=""card border-warning text-center"">
 <div class=""card-body shadow-lg"">
@@ -454,7 +459,8 @@ SBA-C1-L1,SBA-C1-L1-P1,🔨 Critical Learning 1️⃣ of Level 1️⃣⭐,"<div 
 </ul>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L1,SBA-C1-L1-P2,🔨 Critical Learning 2️⃣ of Level 1️⃣⭐,"<div class=""container"">
 <div class=""card border-warning text-center"">
 <div class=""card-body shadow-lg"">
@@ -475,7 +481,8 @@ SBA-C1-L1,SBA-C1-L1-P2,🔨 Critical Learning 2️⃣ of Level 1️⃣⭐,"<div 
 </ul>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L1,SBA-C1-L1-P3,🔨 Critical Learning 3️⃣ of Level 1️⃣⭐,"<div class=""container"">
 <div class=""card border-warning text-center"">
 <div class=""card-body shadow-lg"">
@@ -496,7 +503,8 @@ SBA-C1-L1,SBA-C1-L1-P3,🔨 Critical Learning 3️⃣ of Level 1️⃣⭐,"<div 
 </ul>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L2,SBA-C1-L2-P1,🔨 Critical Learning 1️⃣ of Level 2️⃣⭐⭐,"<div class=""container"">
 <div class=""card border-warning text-center"">
 <div class=""card-body shadow-lg"">
@@ -517,7 +525,8 @@ SBA-C1-L2,SBA-C1-L2-P1,🔨 Critical Learning 1️⃣ of Level 2️⃣⭐⭐,"<d
 </ul>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L2,SBA-C1-L2-P2,🔨 Critical Learning 2️⃣ of Level 2️⃣⭐⭐,"<div class=""container"">
 <div class=""card border-warning text-center"">
 <div class=""card-body shadow-lg"">
@@ -538,7 +547,8 @@ SBA-C1-L2,SBA-C1-L2-P2,🔨 Critical Learning 2️⃣ of Level 2️⃣⭐⭐,"<d
 </ul>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L2,SBA-C1-L2-P3,🔨 Critical Learning 3️⃣ of Level 2️⃣⭐⭐,"<div class=""container"">
 <div class=""card border-warning text-center"">
 <div class=""card-body shadow-lg"">
@@ -559,7 +569,8 @@ SBA-C1-L2,SBA-C1-L2-P3,🔨 Critical Learning 3️⃣ of Level 2️⃣⭐⭐,"<d
 </ul>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L3,SBA-C1-L3-P1,🔨 Critical Learning 1️⃣ of Level 3️⃣⭐⭐⭐,"<div class=""container"">
 <div class=""card border-warning text-center"">
 <div class=""card-body shadow-lg"">
@@ -580,7 +591,8 @@ SBA-C1-L3,SBA-C1-L3-P1,🔨 Critical Learning 1️⃣ of Level 3️⃣⭐⭐⭐,
 </ul>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L3,SBA-C1-L3-P2,🔨 Critical Learning 2️⃣ of Level 3️⃣⭐⭐⭐,"<div class=""container"">
 <div class=""card border-warning text-center"">
 <div class=""card-body shadow-lg"">
@@ -601,7 +613,8 @@ SBA-C1-L3,SBA-C1-L3-P2,🔨 Critical Learning 2️⃣ of Level 3️⃣⭐⭐⭐,
 </ul>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L3,SBA-C1-L3-P3,🔨 Critical Learning 3️⃣ of Level 3️⃣⭐⭐⭐,"<div class=""container"">
 <div class=""card border-warning text-center"">
 <div class=""card-body shadow-lg"">
@@ -622,7 +635,8 @@ SBA-C1-L3,SBA-C1-L3-P3,🔨 Critical Learning 3️⃣ of Level 3️⃣⭐⭐⭐,
 </ul>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L4,SBA-C1-L4-P1,🔨 Critical Learning 1️⃣ of Level 4️⃣⭐⭐⭐⭐,"<div class=""container"">
 <div class=""card border-warning text-center"">
 <div class=""card-body shadow-lg"">
@@ -643,7 +657,8 @@ SBA-C1-L4,SBA-C1-L4-P1,🔨 Critical Learning 1️⃣ of Level 4️⃣⭐⭐⭐�
 </ul>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L4,SBA-C1-L4-P2,🔨 Critical Learning 2️⃣ of Level 4️⃣⭐⭐⭐⭐,"<div class=""container"">
 <div class=""card border-warning text-center"">
 <div class=""card-body shadow-lg"">
@@ -664,7 +679,8 @@ SBA-C1-L4,SBA-C1-L4-P2,🔨 Critical Learning 2️⃣ of Level 4️⃣⭐⭐⭐�
 </ul>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L4,SBA-C1-L4-P3,🔨 Critical Learning 3️⃣ of Level 4️⃣⭐⭐⭐⭐,"<div class=""container"">
 <div class=""card border-warning text-center"">
 <div class=""card-body shadow-lg"">
@@ -685,7 +701,8 @@ SBA-C1-L4,SBA-C1-L4-P3,🔨 Critical Learning 3️⃣ of Level 4️⃣⭐⭐⭐�
 </ul>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L1-P1,SBA-C1-L1-P1-I1,🚥 Indicator 1️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -704,7 +721,8 @@ SBA-C1-L1-P1,SBA-C1-L1-P1-I1,🚥 Indicator 1️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L1-P1,SBA-C1-L1-P1-I2,🚥 Indicator 2️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -723,7 +741,8 @@ SBA-C1-L1-P1,SBA-C1-L1-P1-I2,🚥 Indicator 2️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L1-P1,SBA-C1-L1-P1-I3,🚥 Indicator 3️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -742,7 +761,8 @@ SBA-C1-L1-P1,SBA-C1-L1-P1-I3,🚥 Indicator 3️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L1-P2,SBA-C1-L1-P2-I1,🚥 Indicator 1️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -761,7 +781,8 @@ SBA-C1-L1-P2,SBA-C1-L1-P2-I1,🚥 Indicator 1️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L1-P2,SBA-C1-L1-P2-I2,🚥 Indicator 2️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -780,7 +801,8 @@ SBA-C1-L1-P2,SBA-C1-L1-P2-I2,🚥 Indicator 2️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L1-P2,SBA-C1-L1-P2-I3,🚥 Indicator 3️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -799,7 +821,8 @@ SBA-C1-L1-P2,SBA-C1-L1-P2-I3,🚥 Indicator 3️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L1-P3,SBA-C1-L1-P3-I1,🚥 Indicator 1️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -818,7 +841,8 @@ SBA-C1-L1-P3,SBA-C1-L1-P3-I1,🚥 Indicator 1️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L1-P3,SBA-C1-L1-P3-I2,🚥 Indicator 2️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -837,7 +861,8 @@ SBA-C1-L1-P3,SBA-C1-L1-P3-I2,🚥 Indicator 2️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L1-P3,SBA-C1-L1-P3-I3,🚥 Indicator 3️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -856,7 +881,8 @@ SBA-C1-L1-P3,SBA-C1-L1-P3-I3,🚥 Indicator 3️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L2-P1,SBA-C1-L2-P1-I1,🚥 Indicator 1️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -875,7 +901,8 @@ SBA-C1-L2-P1,SBA-C1-L2-P1-I1,🚥 Indicator 1️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L2-P1,SBA-C1-L2-P1-I2,🚥 Indicator 2️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -894,7 +921,8 @@ SBA-C1-L2-P1,SBA-C1-L2-P1-I2,🚥 Indicator 2️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L2-P1,SBA-C1-L2-P1-I3,🚥 Indicator 3️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -913,7 +941,8 @@ SBA-C1-L2-P1,SBA-C1-L2-P1-I3,🚥 Indicator 3️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L2-P2,SBA-C1-L2-P2-I1,🚥 Indicator 1️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -932,7 +961,8 @@ SBA-C1-L2-P2,SBA-C1-L2-P2-I1,🚥 Indicator 1️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L2-P2,SBA-C1-L2-P2-I2,🚥 Indicator 2️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -951,7 +981,8 @@ SBA-C1-L2-P2,SBA-C1-L2-P2-I2,🚥 Indicator 2️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L2-P2,SBA-C1-L2-P2-I3,🚥 Indicator 3️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -970,7 +1001,8 @@ SBA-C1-L2-P2,SBA-C1-L2-P2-I3,🚥 Indicator 3️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L2-P3,SBA-C1-L2-P3-I1,🚥 Indicator 1️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -989,7 +1021,8 @@ SBA-C1-L2-P3,SBA-C1-L2-P3-I1,🚥 Indicator 1️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L2-P3,SBA-C1-L2-P3-I2,🚥 Indicator 2️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -1008,7 +1041,8 @@ SBA-C1-L2-P3,SBA-C1-L2-P3-I2,🚥 Indicator 2️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L2-P3,SBA-C1-L2-P3-I3,🚥 Indicator 3️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -1027,7 +1061,8 @@ SBA-C1-L2-P3,SBA-C1-L2-P3-I3,🚥 Indicator 3️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L3-P1,SBA-C1-L3-P1-I1,🚥 Indicator 1️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -1046,7 +1081,8 @@ SBA-C1-L3-P1,SBA-C1-L3-P1-I1,🚥 Indicator 1️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L3-P1,SBA-C1-L3-P1-I2,🚥 Indicator 2️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -1065,7 +1101,8 @@ SBA-C1-L3-P1,SBA-C1-L3-P1-I2,🚥 Indicator 2️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L3-P1,SBA-C1-L3-P1-I3,🚥 Indicator 3️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -1084,7 +1121,8 @@ SBA-C1-L3-P1,SBA-C1-L3-P1-I3,🚥 Indicator 3️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L3-P2,SBA-C1-L3-P2-I1,🚥 Indicator 1️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -1103,7 +1141,8 @@ SBA-C1-L3-P2,SBA-C1-L3-P2-I1,🚥 Indicator 1️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L3-P2,SBA-C1-L3-P2-I2,🚥 Indicator 2️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -1122,7 +1161,8 @@ SBA-C1-L3-P2,SBA-C1-L3-P2-I2,🚥 Indicator 2️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L3-P2,SBA-C1-L3-P2-I3,🚥 Indicator 3️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -1141,7 +1181,8 @@ SBA-C1-L3-P2,SBA-C1-L3-P2-I3,🚥 Indicator 3️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L3-P3,SBA-C1-L3-P3-I1,🚥 Indicator 1️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -1160,7 +1201,8 @@ SBA-C1-L3-P3,SBA-C1-L3-P3-I1,🚥 Indicator 1️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L3-P3,SBA-C1-L3-P3-I2,🚥 Indicator 2️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -1179,7 +1221,8 @@ SBA-C1-L3-P3,SBA-C1-L3-P3-I2,🚥 Indicator 2️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L3-P3,SBA-C1-L3-P3-I3,🚥 Indicator 3️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -1198,7 +1241,8 @@ SBA-C1-L3-P3,SBA-C1-L3-P3-I3,🚥 Indicator 3️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L4-P1,SBA-C1-L4-P1-I1,🚥 Indicator 1️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -1217,7 +1261,8 @@ SBA-C1-L4-P1,SBA-C1-L4-P1-I1,🚥 Indicator 1️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L4-P1,SBA-C1-L4-P1-I2,🚥 Indicator 2️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -1236,7 +1281,8 @@ SBA-C1-L4-P1,SBA-C1-L4-P1-I2,🚥 Indicator 2️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L4-P1,SBA-C1-L4-P1-I3,🚥 Indicator 3️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -1255,7 +1301,8 @@ SBA-C1-L4-P1,SBA-C1-L4-P1-I3,🚥 Indicator 3️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L4-P2,SBA-C1-L4-P2-I1,🚥 Indicator 1️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -1274,7 +1321,8 @@ SBA-C1-L4-P2,SBA-C1-L4-P2-I1,🚥 Indicator 1️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L4-P2,SBA-C1-L4-P2-I2,🚥 Indicator 2️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -1293,7 +1341,8 @@ SBA-C1-L4-P2,SBA-C1-L4-P2-I2,🚥 Indicator 2️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L4-P2,SBA-C1-L4-P2-I3,🚥 Indicator 3️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -1312,7 +1361,8 @@ SBA-C1-L4-P2,SBA-C1-L4-P2-I3,🚥 Indicator 3️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L4-P3,SBA-C1-L4-P3-I1,🚥 Indicator 1️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -1331,7 +1381,8 @@ SBA-C1-L4-P3,SBA-C1-L4-P3-I1,🚥 Indicator 1️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L4-P3,SBA-C1-L4-P3-I2,🚥 Indicator 2️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
@@ -1350,7 +1401,8 @@ SBA-C1-L4-P3,SBA-C1-L4-P3-I2,🚥 Indicator 2️⃣,"<div class=""container"">
 <p style=""text-align: left;"">As a reminder, an indicator is an observable element, production or behavior that can be used to verify the quality of the result, the approach, compliance with standards/rules or the relationship with the various protagonists.&nbsp;<br>Indicators are often situation-specific.&nbsp;</p>
 </div>
 </div>
-</div>",,,,,,,,,,""
+</div>",,,,,,,,,,"
+"
 SBA-C1-L4-P3,SBA-C1-L4-P3-I3,🚥 Indicator 3️⃣,"<div class=""container"">
 <div class=""card border-danger text-center"">
 <div class=""card-body shadow-lg"">
